@@ -20,6 +20,6 @@ public class Entity<TId>
 
     public Entity(TId id)
     {
-        Id = id;   
+        Id = id;
     }
 }
